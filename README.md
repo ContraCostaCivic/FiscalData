@@ -10,3 +10,7 @@ You can find budgets and other financial reports on each community's web site.
 We have also provided data scraped from CalPERS reports showing current pension obligations and future pension contributions.
 
 A possible resarch question that could be addressed by this data:  Are public employee pension costs crowding out other government spending priorities?  For a national invesigation of this question see:  https://gspp.berkeley.edu/research/working-paper-series/pensions-in-the-trenches-are-rising-city-pension-costs-crowding-out-public
+
+#Some other relevant work
+https://github.com/gitanupam/pd_maps
+http://marcjoffe.pythonanywhere.com/maps/

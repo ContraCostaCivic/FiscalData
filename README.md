@@ -1,6 +1,6 @@
 # FiscalData
 ## 2018 Open Data Day Walnut Creek results
-* https://sarob.github.io/california-pensions/
+* https://sarob.github.io/california-pensions/ with source https://github.com/sarob/california-pensions
 * .
 
 ## 2018 Open Data Day Walnut Creek, CA details
